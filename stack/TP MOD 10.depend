@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1668516079 source:c:\users\asus\documents\tp mod 10\stack.cpp
+	"stack.h"
+
+1668515645 c:\users\asus\documents\tp mod 10\stack.h
+	<iostream>
+
+1669564574 source:c:\users\asus\documents\tp mod 10\main.cpp
+	<iostream>
+	"stack.h"
+
+1669564574 source:c:\users\asus\documents\tp mod 10 (2)\main.cpp
+	<iostream>
+	"stack.h"
+
+1668515645 c:\users\asus\documents\tp mod 10 (2)\stack.h
+	<iostream>
+
+1668516079 source:c:\users\asus\documents\tp mod 10 (2)\stack.cpp
+	"stack.h"
+
